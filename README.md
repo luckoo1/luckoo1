@@ -1,5 +1,6 @@
 For Study
 ==
-Algorithm
-C++
+Algorithm   
+C++   
+Python
 --
